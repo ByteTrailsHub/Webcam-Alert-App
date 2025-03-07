@@ -26,7 +26,7 @@ Configure the send_email function within it to use your email credentials and se
 
 ### Usage
 Run the Application:
-python webcam_alert.py
+python main.py
 
 Operation:
 
